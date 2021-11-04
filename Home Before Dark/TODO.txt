@@ -1,0 +1,19 @@
+To do:
+
+-add light on character
+-add enemy movement by waypoints, including animations
+	-jump
+	-run
+-add death/light loss on touching a fake hat
+-UI: indicator for how many illuminators, ammo, and decoys left
+-finish level (no more decoys left), with cheer animation
+-level design
+-screen shake
+-menu
+
+
+
+extra:
+-polish attack (has some kind of tethering)
+-better death animation (falls off screen)
+-tutorial
